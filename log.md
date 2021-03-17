@@ -8,7 +8,9 @@
 
 **Link to work:** 
 Question 01 : https://www.codechef.com/problems/HS08TEST Solution : https://www.codechef.com/viewsolution/43882715
+
 Question 02 : https://www.codechef.com/problems/MUFFINS3 Solution : https://www.codechef.com/viewsolution/43887450
+
 Question 03 : https://www.codechef.com/problems/TLG Solution : https://www.codechef.com/viewsolution/43888165
 
 
