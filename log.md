@@ -1,30 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: March 17, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Today I decided to brush up my coding skills from the very beginning. Usually I'm comfortable with coding languages like C and C++, thereby for the first few weeks of this challenge I will be learning and doing these coding challenges in JAVA. In addition, I worked on my group project called 'MediHub'.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I found these questions really easy in my head as I have done programming before, however, since I haven't coded in a long time it was still equally challenging to get back on my feet. With continuous practice I think I will get better at coding in general.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** 
+Question 01 : https://www.codechef.com/problems/HS08TEST Solution : https://www.codechef.com/viewsolution/43882715
+Question 02 : https://www.codechef.com/problems/MUFFINS3 Solution : https://www.codechef.com/viewsolution/43887450
+Question 03 : https://www.codechef.com/problems/TLG Solution : https://www.codechef.com/viewsolution/43888165
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
