@@ -22,3 +22,12 @@ Question 03 : https://www.codechef.com/problems/TLG Solution : https://www.codec
 
 **Link to work:** 
 Committed to a private repository.
+
+### Day 23: March 19, 2021
+
+**Today's Progress**: Today I worked on the backend of my group project 'MediHUb'
+
+**Thoughts:** Today I worked on the backend, while the majority of it went well, I did hit a few speedbumps and got stuck at many places but hope to figure it out tommorrow.
+
+**Link to work:** 
+Committed to a private repository.
