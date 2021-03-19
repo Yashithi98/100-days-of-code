@@ -14,3 +14,11 @@ Question 02 : https://www.codechef.com/problems/MUFFINS3 Solution : https://www.
 Question 03 : https://www.codechef.com/problems/TLG Solution : https://www.codechef.com/viewsolution/43888165
 
 
+### Day 2: March 18, 2021
+
+**Today's Progress**: Today I worked on the pharmacy dashboard and the backend of my group project 'MediHUb'
+
+**Thoughts:** Challenging but figuring it out and eventually making functionalities work is quite empowering.
+
+**Link to work:** 
+Committed to a private repository.
